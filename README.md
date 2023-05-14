@@ -40,19 +40,18 @@ multiple tabs, and the match will persist through tab refreshes.
 
 ### What I learned
 
-As per the usual more practise with writing functions and understanding how JS handles elapsed time, rounding errors, as well as formatting the time to either the USA or EU 
-standard.
+This project introduced me to a lot of advanced concepts, and I've learned a lot about the MVC pattern, Local Storage, using the terminal to install various developer dependecies  and have also been working on refactoring this project using TypeScript as well as React.
+You can find these refactors as different branches of this repository. 
 
 
 ### Continued development
 
-Practise makes perfect.
+The next steps will include study of frameworks and typescript.
 
 ### References and Acknowledgements
 
-Project completed and inspired by the WesBos 30 Day JS Course. <br>
-[![JavaScript](https://img.shields.io/badge/--F7DF1E?logo=javascript&logoColor=000)](https://www.javascript.com/)
-[ Custom HTML5 Video Player - #JavaScript30 29/30 ](https://www.youtube.com/watch?v=LAaf7-WuJJQ)
+Zach Gollwitzer's tutorial <br>
+[Frontend Web Development: In-Depth Project Tutorial](https://www.youtube.com/watch?v=MsnQ5uepIaE)
 
 
 ## Author
