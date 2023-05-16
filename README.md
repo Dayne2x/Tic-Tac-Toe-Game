@@ -1,6 +1,6 @@
 # ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) TicTacToe Game
 
-This is a TicTacToe game made with HTML, CSS and JS. The users are able to play a game taking turns. The score board keeps track of wins and losses by either player as well as ties. The game can be played from
+This is a React refactor of a TicTacToe game made with HTML, CSS and JS. The users are able to play a game taking turns. The score board keeps track of wins and losses by either player as well as ties. The game can be played from
 multiple tabs, and the match will persist through tab refreshes. 
 
 
